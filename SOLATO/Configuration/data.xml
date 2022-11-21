@@ -1,0 +1,10 @@
+<?xml version = "1.0" encoding="utf-8"?>
+<Environment>
+    <!--General-->
+    <WaitTime>2</WaitTime>
+    <ScreenshotPath>D:\pyCharm\CompaniesShowProject\SOLATO\Allure-Screenshots\</ScreenshotPath>
+
+    <!--WEB-->
+    <Browser>CHROME</Browser>
+    <URL>https://www.solato.com/</URL>
+</Environment>

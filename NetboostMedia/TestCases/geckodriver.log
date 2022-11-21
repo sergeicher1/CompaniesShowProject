@@ -1,0 +1,23 @@
+1668367197480	geckodriver	INFO	Listening on 127.0.0.1:53847
+1668367200570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53848" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\serge\\AppData\\Local\\Temp\\rust_mozprofileNPi5iw"
+1668367200993	Marionette	INFO	Marionette enabled
+1668367200998	Marionette	INFO	Listening on port 53861
+Read port: 53861
+WebDriver BiDi listening on ws://127.0.0.1:53848
+1668367201101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\serge\\AppData\\Local\\Temp\\rust_mozprofileNPi5iw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53848/devtools/browser/aba7c081-86ec-494d-ae8c-1f5b600294a4
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1668367208534	Marionette	INFO	Stopped listening on port 53861
+1668367302646	geckodriver	INFO	Listening on 127.0.0.1:54707
+1668367305702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54708" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\serge\\AppData\\Local\\Temp\\rust_mozprofilexYayQe"
+1668367306016	Marionette	INFO	Marionette enabled
+1668367306021	Marionette	INFO	Listening on port 54719
+Read port: 54719
+WebDriver BiDi listening on ws://127.0.0.1:54708
+1668367306113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\serge\\AppData\\Local\\Temp\\rust_mozprofilexYayQe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54708/devtools/browser/926e62c5-8401-49d3-a12a-778132be6ee5
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1668367312485	Marionette	INFO	Stopped listening on port 54719
+[Parent 28104, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167

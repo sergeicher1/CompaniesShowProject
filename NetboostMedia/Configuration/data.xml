@@ -1,0 +1,10 @@
+<?xml version = "1.0" encoding="utf-8"?>
+<Environment>
+    <!--General-->
+    <WaitTime>2</WaitTime>
+    <ScreenshotPath>D:\pyCharm\CompaniesShowProject\NetboostMedia\Allure-Screenshots\</ScreenshotPath>
+
+    <!--WEB-->
+    <Browser>CHROME</Browser>
+    <URL>https://www.netboostmedia.com/</URL>
+</Environment>
