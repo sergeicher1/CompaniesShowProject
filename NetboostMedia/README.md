@@ -1,4 +1,4 @@
-# CompaniesShowProject-NetboostMedia
+# NetboostMedia
 NetboostMedia Automation on site https://www.netboostmedia.com/
 
 BUG - 1, Contact form doesn't work https://youtu.be/hapl8pJeejs
